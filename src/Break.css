@@ -1,0 +1,21 @@
+.break-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-image: url("https://wallup.net/wp-content/uploads/2019/09/837330-espacio-galaxia-estrellas-naturaleza-748x468.jpg");
+    color: rgb(255, 255, 255);
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin: 4rem;
+}
+
+#break-label {
+    margin: 0;
+}
